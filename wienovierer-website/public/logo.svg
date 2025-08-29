@@ -1,0 +1,19 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="60" cy="60" r="55" fill="#3B82F6" stroke="#1E40AF" stroke-width="2"/>
+  
+  <!-- Wrench Body -->
+  <path d="M35 45 L45 55 L55 45 L65 55 L75 45 L85 55 L95 45" 
+        stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Wrench Handle -->
+  <path d="M35 45 Q25 35 25 25 Q25 15 35 15 Q45 15 55 25" 
+        stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Wrench End -->
+  <path d="M95 45 Q105 35 105 25 Q105 15 95 15 Q85 15 75 25" 
+        stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Center Dot -->
+  <circle cx="60" cy="60" r="8" fill="white"/>
+</svg>
